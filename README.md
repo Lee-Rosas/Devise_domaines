@@ -45,24 +45,24 @@ Le concept mise sur une **immersion forte** et une **tension psychologique**, ce
 ---
 ##  Description des tâches
 ###  Préproduction
-Phase de préparation et de réflexion.
+Phase de préparation et de réflexion. On planifie le jeu avant de le créer.
 - Choisir le concept du jeu d’horreur
 - Écrire le scénario
 - Réaliser des croquis / moodboard
 ###  Production
-Phase de création du jeu.
+Phase de création. On développe réellement le jeu.
 - Programmer les mécaniques de jeu
 - Ajouter les effets sonores et la musique
 - Créer les décors et environnements
 - Modéliser les personnages / monstres
 ###  Postproduction
-Phase d’amélioration et de correction.
+Phase d’amélioration et de correction. On teste, corrige les bugs et améliore l’expérience.
 - Tester le jeu (bugs, collisions, performance)
 - Corriger les erreurs techniques
 - Ajuster la difficulté
 - Améliorer l’immersion sonore et visuelle
 ###  Exploitation
-Phase de diffusion et d’utilisation.
+Phase de diffusion et d’utilisation. On présente ou publie le jeu et on le rend jouable.
 - Préparer une version finale jouable
 - Présenter le jeu
 - Publier le jeu
@@ -72,7 +72,7 @@ Phase de diffusion et d’utilisation.
 L’horreur repose principalement sur **l’ambiance**, le **son** et la **tension psychologique**, permettant une immersion profonde du joueur.
 Ce qui distingue le jeu de la concurrence est son **gameplay basé sur des ennemis uniques**. Chaque membre de la famille possède des capacités différentes liées à sa vie passée (empoisonnement, pièges, manipulation de l’environnement).  
 Cette diversité rend chaque maison et chaque chapitre unique, évitant la répétition souvent présente dans les jeux d’horreur classiques.
-Grâce à son univers sombre et son potentiel narratif, **Le Dernier Balayage** pourrait intéresser des investisseurs sur **Kickstarter**. Le projet s’adresse à un public amateur de jeux d’horreur indépendants et propose une expérience originale pouvant être enrichie davantage par :
+Grâce à son univers sombre et son potentiel narratif, **Le Dernier Balayage** pourrait intéresser des investisseurs Kickstarter. Le projet s’adresse à un public amateur de jeux d’horreur indépendants et propose une expérience originale pouvant être enrichie davantage par :
 - de nouveaux éléments de gameplay
 - des environnements plus détaillés
 - une ambiance visuelle et sonore renforcée
