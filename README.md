@@ -8,7 +8,7 @@
 - **1 maison = 7 chapitres**
 - Le personnage principal est le même :  
  **chasseur de fantômes / exorciste**
-- Des **signaux apparaissent** lorsque les entités arrivent
+- Des **signaux apparaissent** lorsque qu'ils arrivent
 - Système **d’inventaire**
 - Possibilité de **collecter des objets** pour survivre
 ---
