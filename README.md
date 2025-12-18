@@ -40,8 +40,10 @@
 ###  Choix technologiques
 - **Plateformes** : PC, mobile (ou autre)
 - **Technologies** : effets 3D, POV (vue subjective)
-###  Réponse aux attentes du public
+### Réponse aux attentes du public
+  
 Le concept mise sur une **immersion forte** et une **tension psychologique**, ce qui correspond aux attentes des amateurs d’horreur réaliste recherchant une expérience plus profonde que de simples jump scares.
+
 ---
 ##  Description des tâches
 ###  Préproduction
@@ -69,10 +71,5 @@ Phase de diffusion et d’utilisation. On présente ou publie le jeu et on le re
 ---
 ##  Conclusion
 **Le Dernier Balayage** est un projet de jeu vidéo d’horreur innovant qui se démarque par son concept original : nettoyer des maisons marquées par des événements tragiques tout en faisant face aux esprits des anciennes familles.
-L’horreur repose principalement sur **l’ambiance**, le **son** et la **tension psychologique**, permettant une immersion profonde du joueur.
 Ce qui distingue le jeu de la concurrence est son **gameplay basé sur des ennemis uniques**. Chaque membre de la famille possède des capacités différentes liées à sa vie passée (empoisonnement, pièges, manipulation de l’environnement).  
-Cette diversité rend chaque maison et chaque chapitre unique, évitant la répétition souvent présente dans les jeux d’horreur classiques.
-Grâce à son univers sombre et son potentiel narratif, **Le Dernier Balayage** pourrait intéresser des investisseurs Kickstarter. Le projet s’adresse à un public amateur de jeux d’horreur indépendants et propose une expérience originale pouvant être enrichie davantage par :
-- de nouveaux éléments de gameplay
-- des environnements plus détaillés
-- une ambiance visuelle et sonore renforcée
+Cette diversité rend chaque maison et chaque chapitre unique. **Le Dernier Balayage** pourrait intéresser des investisseurs Kickstarter. Le projet s’adresse à un public amateur de jeux d’horreur indépendants. 
